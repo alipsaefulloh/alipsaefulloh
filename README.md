@@ -9,9 +9,8 @@ While my core expertise lies in the frontend, I also have solid **backend capabi
 
 ## Links
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://aleef.sa.com/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aleef.sa)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alipsaefulloh)
 
 ---
 
